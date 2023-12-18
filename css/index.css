@@ -14,7 +14,7 @@
 }
 
 .main {
-    margin: 180px auto 0px auto;
+    margin: 100px auto 0px auto;
     width: 500px;
 }
 
@@ -46,8 +46,9 @@
     text-align: right;
     font-size: 23px;
     border-bottom: 1px solid black;
-    padding-bottom: 170px;
+    padding-bottom: 150px;
     margin-bottom: 50px;
+    margin-top: 40px;
 }
 
 .ment {

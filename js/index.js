@@ -7,11 +7,11 @@ function mapError() {
 }
 
 function openNavermap() {
-    location.href = "https://map.naver.com/p/entry/place/202675456?c=15.00,0,0,0,dh"
+    window.open('https://map.naver.com/p/entry/place/202675456?c=15.00,0,0,0,dh')
 }
 
 function openKakaomap() {
-    location.href = "https://map.kakao.com/"
+    window.open("https://map.kakao.com/")
 }
 
 function commentsAdd() {
